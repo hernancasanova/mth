@@ -1,0 +1,9 @@
+version: 0.1.0
+files:
+  - url: Gestor_de_casos_sernac-0.1.0.AppImage
+    sha512: 6TnKD8e/KDIx1XkUxOlq0/uVClUinScgaXJLxRIkBDcNWrmAyPs785t4iVPvHi2COuGT9JGehYixAVlvTN3V/w==
+    size: 245612243
+    blockMapSize: 253671
+path: Gestor_de_casos_sernac-0.1.0.AppImage
+sha512: 6TnKD8e/KDIx1XkUxOlq0/uVClUinScgaXJLxRIkBDcNWrmAyPs785t4iVPvHi2COuGT9JGehYixAVlvTN3V/w==
+releaseDate: '2019-10-14T18:03:06.470Z'

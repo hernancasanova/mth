@@ -1,0 +1,9 @@
+version: 0.1.0
+files:
+  - url: electron-vue-0.1.0.AppImage
+    sha512: 2oQAS9ZjtH/nIf0WtKR0fYfLIH2tOv8ZCMm7banyWM5p3dxxe80UYZVFgwIx2TIBW/0aJDDU7fNRkZ+QntYuVQ==
+    size: 61242879
+    blockMapSize: 65043
+path: electron-vue-0.1.0.AppImage
+sha512: 2oQAS9ZjtH/nIf0WtKR0fYfLIH2tOv8ZCMm7banyWM5p3dxxe80UYZVFgwIx2TIBW/0aJDDU7fNRkZ+QntYuVQ==
+releaseDate: '2019-10-14T14:53:03.835Z'
