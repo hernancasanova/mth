@@ -8,8 +8,8 @@ Vue.use(Router)
 export default new Vuex.Store({
   state: {
     auth_login: true,
-    host: 'http://mth.sistematiza.cl',
-    //host: 'http://localhost:8000',
+    //host: 'http://mth.sistematiza.cl',
+    host: 'http://localhost:8000',
     user:'',
     password:'',
     remeber_login: false,
