@@ -1,12 +1,20 @@
 Requisitos: 
-Composer
-php 7.2
-laravel
-node
+Composer,
+php 7.2,
+laravel,
+node,
+postgres,
+pgsql
+pgAdmin
 
 Pasos para ejecutar la aplicación:
 Habilitar los drivers php asociados a postgres (editar el archivo php.ini y descomentar las lineas: extension=pdo_pgsql y extension=pgsql).
 Renombrar el archivo env a .env.
+Crear la base de datos postgres:
+Utilizando la herramienta pgsql ejecutar los comandos:
+CREATE USER admin WITH PASSWORD ‘admin2546!!’;
+CREATE DATABASE admin;
+GRANT ALL PRIVILEGES ON DATABASE  admin TO admin;
 Renombrar los archivos browserslistrc y eslintrc.js a .browserslistrc y .eslintrc.js (ocultarlos)
 Dentro de la carpeta Application ejecutar npm install.
 Dentro de la carpeta GCS ejecutar el comando composer install.
