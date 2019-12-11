@@ -14,7 +14,7 @@ Utilizando la herramienta pgsql ejecutar los comandos:
 CREATE USER admin WITH PASSWORD ‘admin2546!!’;
 CREATE DATABASE admin;
 GRANT ALL PRIVILEGES ON DATABASE  admin TO admin;
-Renombrar los archivos browserslistrc y eslintrc.js a .browserslistrc y .eslintrc.js (ocultarlos) ubicados dentro de la carpeta Application
+Renombrar los archivos browserslistrc y eslintrc.js a ".browserslistrc." y ".eslintrc.js." (ocultarlos) ubicados dentro de la carpeta Application
 Dentro de la carpeta Application ejecutar npm install.
 Renombrar el archivo env a .env.
 Crear las carpetas: "sessions" y "views" dentro de la carpeta GCS/storage/framework
