@@ -16,7 +16,7 @@ CREATE DATABASE admin;
 GRANT ALL PRIVILEGES ON DATABASE  admin TO admin;
 Renombrar los archivos browserslistrc y eslintrc.js a ".browserslistrc." y ".eslintrc.js." (ocultarlos) ubicados dentro de la carpeta Application
 Dentro de la carpeta Application ejecutar npm install.
-Renombrar el archivo env a .env.
+Renombrar el archivo env a .env. ubicado en la carpeta GCS
 Crear las carpetas: "sessions" y "views" dentro de la carpeta GCS/storage/framework
 Dentro de la carpeta GCS ejecutar el comando composer install.
 Dentro de la carpeta GCS ejecutar el comando php artisan serve (para levantar la api).
