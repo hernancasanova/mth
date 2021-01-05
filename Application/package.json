@@ -32,7 +32,7 @@
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-plugin-eslint": "^3.5.0",
     "@vue/cli-service": "^3.5.0",
-    "axios": "^0.17",
+    "axios": "^0.21",
     "babel-eslint": "^10.0.1",
     "electron": "^4.2.9",
     "electron-builder": "^21.2.0",
